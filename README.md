@@ -7,4 +7,4 @@ I'm **"Mohamed Emam"** or you can call me **"Mido"**, A Web Developer who harnes
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/codedmohamed)
 
 ## Superpowers ⚡
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)
