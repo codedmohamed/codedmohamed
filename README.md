@@ -7,4 +7,7 @@ I'm **"Mohamed Emam"** or you can call me **"Mido"**, A Software Developer who h
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/codedmohamed)
 
 ## Superpowers ⚡
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma)
+`HTML` `CSS` `JavaScript` `TypeScript` `React.js` `React Native` `Expo` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `SASS` `Tailwind` `Firebase`
+
+
+
