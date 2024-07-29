@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I'm **"Mohamed Emam"** or you can call me **"Mido"**, A Self-taught Software Developer who harnessed the power of code, design and imagination to make breathtaking creations for web & mobile. I work on random projects in my free time. Let's connect, be friends & talk business.
+I'm **"Mohamed Emam"** or you can call me **"Mido"**, A Software Developer who harnessed the power of code, design and imagination to make breathtaking creations for web & mobile. I work on random projects in my free time. Let's connect, be friends & talk business.
 
 [![Portfolio](https://skillicons.dev/icons?i=mastodon)](https://www.codedmohamed.com)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:codedmohamed@gmail.com)
