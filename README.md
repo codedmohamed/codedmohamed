@@ -14,7 +14,7 @@ I'm **"Mohamed Emam"** or you can call me **"Mido"**, A Software Developer who h
 --->
 
 ## Superpowers ⚡
-`HTML` `CSS` `JavaScript` `TypeScript` `React.js` `React Native` `Expo` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Git` `SASS` `Tailwind` `Firebase`
+`HTML` `CSS` `JavaScript` `TypeScript` `React.js` `React Native` `Expo`
 
 
 
