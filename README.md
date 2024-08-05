@@ -16,5 +16,7 @@ I'm **"Mohamed Emam"** or you can call me **"Mido"**, A Software Developer who h
 ## Superpowers ⚡
 `HTML` `CSS` `JavaScript` `TypeScript` `React.js` `React Native` `Expo`
 
+![Portfolio](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python,postgresql,bash,aws,docker,kubernetes,jenkins)
+
 
 
